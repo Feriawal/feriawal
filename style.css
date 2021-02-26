@@ -66,8 +66,10 @@ span{
 
 h1{
 	font-size: 80px;
-	margin: 10px 0 30px;
-	line-height: 80px;
+    	margin: -20px 0 30px;
+    	margin-left: -5px;
+    	line-height: 80px;
+}
 
 }
 
