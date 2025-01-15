@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Feri Awal</h1>
 <h3 align="center">A Software Enginer From Makassar, Indonesia</h3>
