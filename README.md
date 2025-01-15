@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Feri Awal</h1>
-<h3 align="center">A Software Enginer From Makassar, Indonesia</h3>
+<h3 align="center">A Software Engineer From Makassar, Indonesia</h3>
 
 - 🔭 I’m currently working on **Notes Aplication**
 
